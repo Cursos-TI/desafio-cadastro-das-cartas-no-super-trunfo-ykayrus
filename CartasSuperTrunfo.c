@@ -45,12 +45,13 @@ int main() {
     printf("\n######### DADOS DA SUA CARTA ########### \n");
     printf("\nCódigo da carta: %s\n", codigo); // Mostra o código da carta.
     printf("População: %d \n", populacao);   // Mostra a população da cidade.
-    printf("Área: %f km²\n", area);          // Mostra a área da cidade
-    printf("PIB: R$ %f Bilhões\n", pib);     // Mostra o PIB da cidade
+    printf("Área: %f km²\n", area);          // Mostra a área da cidade.
+    printf("PIB: R$ %f Bilhões\n", pib);     // Mostra o PIB da cidade.
     printf("Pontos Turísticos: %d\n", pontos_turisticos);  // Mostra o número de pontos turísticos.
     printf("\n### SUPER TRUNFO - PAÍSES - MATECHECK ###\n");
 
     return 0; // Indica que o programa terminou com sucesso
 
 }
+
 
